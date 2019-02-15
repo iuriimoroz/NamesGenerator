@@ -49,10 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileTypeChecker.cs" />
     <Compile Include="INamesGenerator.cs" />
     <Compile Include="NamesGenerator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomNumbersGenerator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
